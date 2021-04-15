@@ -43,7 +43,7 @@ jobs:
           go-version: '1.16'
       - name: Install gena
         run: |
-          go get github.com/x1ah/gena/cmd/gena
+          go get -u github.com/x1ah/gena/cmd/gena
           gena -c config.yml > index.html
 
       # Commit modified files
