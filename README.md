@@ -15,4 +15,4 @@ After using the template to create your project, the generate workflow will be t
 
 Update `config.yml` in your project. workflow will regenerate website in a few minutes
 
-![image](https://user-images.githubusercontent.com/14919255/114821607-6611fa00-9df3-11eb-9b7d-4dc83ac7c485.png)
+![image](https://user-images.githubusercontent.com/14919255/114878771-29fe8980-9e33-11eb-834c-515379882664.png)
