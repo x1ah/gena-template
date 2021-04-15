@@ -37,6 +37,7 @@ jobs:
           rm -rf \
             .github/repo \
             .github/workflows/init.yml \
+            README_CN.md \
       - name: Install Go
         uses: actions/setup-go@v2
         with:
