@@ -20,7 +20,7 @@ jobs:
       - name: Generate
         run: |
           go get -u github.com/x1ah/gena/cmd/gena
-          gena -c config.yml > index.html
+          gena -c config.yml 1> index.html
 
       # Commit generated files
       - name: Commit files
