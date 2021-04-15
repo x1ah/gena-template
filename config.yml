@@ -4,6 +4,9 @@ title: %NAME%
 # description of website
 description: %ACTOR%'s navigation site
 
+# favicon of website
+favicon: "https://github.com/%ACTOR%.png?size=40"
+
 # your website url
 url: https://%ACTOR%.github.io/%NAME%/
 
