@@ -2,6 +2,7 @@
 
 [gena](https://github.com/x1ah/gena) navigation site template | [中文文档](https://github.com/x1ah/gena-template/blob/master/README_CN.md)
 
+Demo: [when.run/nav](https://when.run/nav/)
 
 ## Getting started
 
