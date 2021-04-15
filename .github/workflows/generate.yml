@@ -1,0 +1,38 @@
+on:
+  push:
+    branches:
+      - gh-pages
+    paths:
+      - 'config.yml'
+
+name: Generate index.html
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.16'
+      - name: Install gena
+        run: go get github.com/x1ah/gena@v1
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate
+        run: gena -c config.yml > index.html
+
+      # Commit generated files
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update site"
+      # Push changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}

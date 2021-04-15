@@ -1,0 +1,45 @@
+# title of website
+title: %NAME%
+
+# description of website
+description: %NAME%'s navigation site
+
+# your website url
+url: https://%ACTOR%.github.io/%NAME%/
+
+# logo image url
+logo: "https://cdn.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/favicon.png"
+
+# github profile url
+github: "https://github.com/%ACTOR%"
+
+# footer message
+footer: © 2021-2021 @%ACTOR%
+
+# template(theme) of your site, available:
+# 1. webstack (http://webstack.cc)
+template: webstack
+
+content:
+  categories:
+    - name: 社区
+      sites:
+        - name: V2EX
+          description: 创意工作者的社区。
+          url: https://v2ex.com
+          logo: https://www.v2ex.com/static/icon-192.png
+
+        - name: 36kr
+          description: 创业资讯、科技新闻
+          url: https://36kr.com/
+          logo: https://36kr.com/favicon.ico
+
+    - name: 图标素材
+      sites:
+        - name: iconfont
+          description: 阿里巴巴矢量图标库
+          url: https://www.iconfont.cn/
+
+        - name: iconfinder
+          description: 2,100,000+ free and premium vector icons.
+          url: https://www.iconfinder.com/
