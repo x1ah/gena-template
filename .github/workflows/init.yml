@@ -37,6 +37,15 @@ jobs:
           rm -rf \
             .github/repo \
             .github/workflows/init.yml \
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.16'
+      - name: Install gena
+        run: |
+          go get github.com/x1ah/gena/cmd/gena
+          gena -c config.yml > index.html
+
       # Commit modified files
       - name: Commit files
         run: |
