@@ -5,7 +5,7 @@
 
 ## Getting started
 
-All you have to do is click the <kbd>Use this template<kbd> button.
+All you have to do is click the <kbd>Use this template</kbd> button.
 
 ![image](https://user-images.githubusercontent.com/14919255/114821045-8ee5bf80-9df2-11eb-9d17-d617c946b65e.png)
 
