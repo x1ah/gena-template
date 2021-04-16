@@ -1,19 +1,20 @@
 # gena-template
 
-[gena](https://github.com/x1ah/gena) navigation site template | [中文文档](https://github.com/x1ah/gena-template/blob/master/README_CN.md)
+[gena](https://github.com/x1ah/gena) 导航网站生成模板，零依赖，自动部署。 | [English Document](https://github.com/x1ah/gena-template/blob/master/README_EN.md)
 
 Demo: [when.run/nav](https://when.run/nav/)
 
-## Getting started
+## 使用
 
-All you have to do is click the <kbd>Use this template</kbd> button.
+只需要点击 <kbd>Use this template<kbd> 按钮
 
 ![image](https://user-images.githubusercontent.com/14919255/114821045-8ee5bf80-9df2-11eb-9d17-d617c946b65e.png)
 
-After using the template to create your project, the generate workflow will be triggered to generate your website, that available at `https://you-name.github.io/<repo>/`
+创建项目之后，等待几分钟，访问 `https://you-name.github.io/<repo>/` 查看效果
 
-## Update site
+## 更新
 
-Update `config.yml` in your project. workflow will regenerate website in a few minutes
+修改项目里的 `config.yml`，并提交，等待几分钟后访问 `https://you-name.github.io/<repo>/` 查看效果
 
-![image](https://user-images.githubusercontent.com/14919255/114878771-29fe8980-9e33-11eb-834c-515379882664.png)
+![image](https://user-images.githubusercontent.com/14919255/114821607-6611fa00-9df3-11eb-9b7d-4dc83ac7c485.png)
+
