@@ -4,6 +4,8 @@
 
 Demo: [when.run/nav](https://when.run/nav/)
 
+![image](https://user-images.githubusercontent.com/14919255/114878771-29fe8980-9e33-11eb-834c-515379882664.png)
+
 ## Getting started
 
 All you have to do is click the <kbd>Use this template</kbd> button.
@@ -15,7 +17,4 @@ After using the template to create your project, the generate workflow will be t
 ## Update site
 
 Update `config.yml` in your project. workflow will regenerate website in a few minutes
-
-![image](https://user-images.githubusercontent.com/14919255/114878771-29fe8980-9e33-11eb-834c-515379882664.png)
-
 

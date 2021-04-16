@@ -4,6 +4,9 @@
 
 Demo: [when.run/nav](https://when.run/nav/)
 
+![image](https://user-images.githubusercontent.com/14919255/114878771-29fe8980-9e33-11eb-834c-515379882664.png)
+
+
 ## 使用
 
 只需要点击 <kbd>Use this template<kbd> 按钮
@@ -15,6 +18,3 @@ Demo: [when.run/nav](https://when.run/nav/)
 ## 更新
 
 修改项目里的 `config.yml`，并提交，等待几分钟后访问 `https://you-name.github.io/<repo>/` 查看效果
-
-![image](https://user-images.githubusercontent.com/14919255/114821607-6611fa00-9df3-11eb-9b7d-4dc83ac7c485.png)
-
