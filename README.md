@@ -5,6 +5,7 @@
 Demo: [when.run/nav](https://when.run/nav/)
 
 ![image](https://user-images.githubusercontent.com/14919255/115016835-3395f900-9ee8-11eb-90d7-5ed816f59872.png)
+![image](https://user-images.githubusercontent.com/14919255/116776971-3b37cf00-aa9e-11eb-9456-83a79a6e166d.png)
 
 
 ## 使用
