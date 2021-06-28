@@ -10,7 +10,7 @@ Demo: [when.run/nav](https://when.run/nav/)
 
 ## 使用
 
-只需要点击 <kbd>Use this template</kbd> 按钮
+只需要点击 [<kbd>Use this template</kbd>](https://github.com/x1ah/gena-template/generate) 按钮
 
 ![image](https://user-images.githubusercontent.com/14919255/114821045-8ee5bf80-9df2-11eb-9d17-d617c946b65e.png)
 
