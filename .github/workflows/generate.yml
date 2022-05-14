@@ -5,7 +5,7 @@ on:
     paths:
       - 'config.yml'
       
-permissions: read-all
+permissions: write-all
 
 name: Generate index.html
 jobs:
