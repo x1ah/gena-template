@@ -8,6 +8,7 @@ jobs:
 
   # Run cleaning process only if workflow is triggered by the other repository.
   template-cleanup:
+    permissions: read-all|write-all
     name: Template Cleanup
     runs-on: ubuntu-latest
     if: github.event.repository.name != 'gena-template'
