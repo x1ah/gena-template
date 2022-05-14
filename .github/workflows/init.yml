@@ -4,7 +4,7 @@ on:
     branches:
       - gh-pages
 
-permissions: read-all
+permissions: write-all
 
 jobs:
 
