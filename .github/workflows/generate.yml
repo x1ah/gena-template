@@ -8,6 +8,7 @@ on:
 name: Generate index.html
 jobs:
   generate:
+    permissions: read-all|write-all
     runs-on: ubuntu-latest
     steps:
       - name: Install Go
