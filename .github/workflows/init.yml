@@ -4,6 +4,8 @@ on:
     branches:
       - gh-pages
 
+permissions: read-all
+
 jobs:
 
   # Run cleaning process only if workflow is triggered by the other repository.
